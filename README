@@ -15,11 +15,34 @@
         - **node js**
 ---
 
-## 3. Tuto lancement
+## 3.1 Installation via git clone 
+
+1. Clonez ce dépôt :
+   ```bash
+   git clone https://github.com/quentinete/carrousel-d-image.git
+   ```
+2. Installer les dépendance
+   ```bash
+   npm install
+   ```
+3. créer un dossier nommé "img" dans le frontend et y mettre vos image
+
+4. lancer le Serseur backend node js
+   ```bash
+    node /chemin du fichier/script_back.js
+   ```
+
+5. lancer l'Url renvoyer dans le terminal
+   ```bash
+    exemple : Serveur lancé sur http://localhost:3000
+   ```
+
+## 3.2 Tuto lancement ( Pas recommander )
 
 - insaller les fichiers
 - créer un dossier nommé "img" dans le frontend
 - mettre les image de votre choix dans le dossier "img"
+- installation des dépendances ( vous devez le faire vous même )
 - lancer le backend avec la commande 
 <code>
     node /chemin du fichier/script_back.js
@@ -27,3 +50,5 @@
 - lancer le serveur : 
 
 *exemple : Serveur lancé sur http://localhost:3000*
+
+
