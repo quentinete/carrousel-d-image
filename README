@@ -21,7 +21,7 @@
    ```bash
    git clone https://github.com/quentinete/carrousel-d-image.git
    ```
-2. Installer les dépendance
+2. Installer les dépendance ( assurez-vous d'être dans le fichier "carrousel-d'image" )
    ```bash
    npm install
    ```
