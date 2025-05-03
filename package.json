@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "recorder": "^0.0.1"
+  },
+  "name": "carrousel-d-image",
+  "version": "1.0.0",
+  "description": "\"# carrousel-d-image\"",
+  "type": "module",
+  "main": "script.js",
+  "devDependencies": {
+    "coffee-script": "^1.12.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
