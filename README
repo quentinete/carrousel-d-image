@@ -1,0 +1,29 @@
+# Projet Carrousel
+
+## 1. Objectifs du projet
+- L'objectif du projet est de faire un carrousel d'image automatique a partir d'un dossier source contenant les images.  
+
+---
+
+## 2. technologie utiliser
+- **visual-studio**  
+    - **Frontend** 
+        - **html** 
+        - **css** 
+        - **js**  
+    - **backend** :  
+        - **node js**
+---
+
+## 3. Tuto lancement
+
+- insaller les fichiers
+- créer un dossier nommé "img"
+- mettre les image de votre choix dans le dossier "img"
+- lancer le backend avec la commande 
+<code>
+    node /chemin du fichier/script_back.js
+</code>
+- lancer le serveur : 
+
+*exemple : Serveur lancé sur http://localhost:3000*
