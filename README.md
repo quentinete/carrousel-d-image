@@ -45,7 +45,7 @@
 - installation des dépendances ( vous devez le faire vous même )
 - lancer le backend avec la commande 
 <code>
-    node /chemin du fichier/script_back.js
+    node ./chemin du fichier/script_back.js
 </code>
 - lancer le serveur : 
 
